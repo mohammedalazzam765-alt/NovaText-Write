@@ -1,0 +1,6 @@
+{
+  "name": "NovaText Write",
+  "description": "100% Free AI Writing Assistant & Paraphraser. Real-time grammar & spell check, multi-tone rewriting, summarizer, and originality checker without login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
